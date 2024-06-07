@@ -1,3 +1,5 @@
+# qr-code-componet-main
+
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](cd ~
@@ -17,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](cd ~
 
 ### Links
 
-- Live Site URL: [http://127.0.0.1:5500/qr-code-component-main/index.html]
+- Live Site URL: []
 
 ## My process
 
@@ -39,6 +41,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](cd ~
 
 ## Author
 
-- Website - [http://127.0.0.1:3018/index.html]
 - Frontend Mentor - [@Christine919]
-
