@@ -1,4 +1,5 @@
 # qr-code-componet-main
+<<<<<<< HEAD
 
 # Frontend Mentor - QR code component solution
 
@@ -42,3 +43,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](cd ~
 ## Author
 
 - Frontend Mentor - [@Christine919]
+=======
+>>>>>>> 525a2aaad81edb34b398f17d6cdac4a65d69f4ae
